@@ -1,1 +1,1 @@
-# -IconResource
+IconResource
